@@ -96,3 +96,28 @@ A **Streamlit web app** is built to:
 ---
 
 ## 🗂️ Project Structure
+## 📂 Project Structure
+
+```text
+📦 INVOICE_PROJECT
+ ┣ 📂 .vscode/                       # VS Code workspace settings
+ ┃ ┗ 📜 settings.json
+ ┣ 📂 invoice/                       # General invoice handling module
+ ┣ 📂 invoice_intelligence_system/   # Core Machine Learning package
+ ┃ ┣ 📂 __pycache__/
+ ┃ ┣ 📂 data/                        # Datasets for training and testing
+ ┃ ┣ 📂 freight_cost_prediction/     # ML module for freight cost analysis
+ ┃ ┣ 📂 inference/                   # Model inference and prediction scripts
+ ┃ ┣ 📂 invoice_flagging_/           # Anomaly detection and flagging logic
+ ┃ ┣ 📂 notebooks/                   # Jupyter notebooks for experimentation
+ ┃ ┗ 📜 __init__.py
+ ┣ 📂 venv/                          # Python virtual environment (ignored in git)
+ ┃ ┣ 📂 etc/
+ ┃ ┣ 📂 Include/
+ ┃ ┣ 📂 Lib/
+ ┃ ┣ 📂 Scripts/
+ ┃ ┣ 📂 share/
+ ┃ ┗ ⚙️ pyvenv.cfg
+ ┣ 📜 app.py                         # Main application entry point
+ ┣ 📜 README.md                      # Project documentation
+ ┗ 📜 requirements.txt               # Python dependencies
