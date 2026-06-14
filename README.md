@@ -121,3 +121,15 @@ A **Streamlit web app** is built to:
  ┣ 📜 app.py                         # Main application entry point
  ┣ 📜 README.md                      # Project documentation
  ┗ 📜 requirements.txt               # Python dependencies
+## 🎯 Project Objective
+
+The **Invoice Intelligence System** is an AI-driven solution designed to automate, optimize, and secure the invoice processing workflow. By leveraging Machine Learning and data analytics, this project aims to reduce manual review times, identify financial anomalies, and intelligently validate logistical expenses.
+
+### Key Features & Goals:
+
+*   **🚩 Automated Invoice Flagging:** Utilizes machine learning algorithms to automatically detect anomalies, data entry errors, discrepancies, or potentially fraudulent activities within incoming invoices.
+*   **🚚 Freight Cost Prediction:** Analyzes historical shipping and invoice data to predict and validate freight costs. This helps ensure accurate billing, prevents overcharging, and optimizes logistics budgets.
+*   **⚡ Seamless Model Inference:** Features a robust inference pipeline designed to quickly process new invoice data through trained models, delivering fast and reliable insights.
+*   **💻 End-to-End Application:** Integrates complex predictive models into a cohesive, user-friendly application (`app.py`), bridging the gap between raw data science and practical business utility.
+
+---
