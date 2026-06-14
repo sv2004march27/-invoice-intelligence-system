@@ -96,8 +96,6 @@ A **Streamlit web app** is built to:
 ---
 
 ## 🗂️ Project Structure
-## 📂 Project Structure
-
 ```text
 📦 INVOICE_PROJECT
  ┣ 📂 .vscode/                       # VS Code workspace settings
@@ -121,6 +119,11 @@ A **Streamlit web app** is built to:
  ┣ 📜 app.py                         # Main application entry point
  ┣ 📜 README.md                      # Project documentation
  ┗ 📜 requirements.txt               # Python dependencies
+
+
+
+---
+
 ## 🎯 Project Objective
 
 The **Invoice Intelligence System** is an AI-driven solution designed to automate, optimize, and secure the invoice processing workflow. By leveraging Machine Learning and data analytics, this project aims to reduce manual review times, identify financial anomalies, and intelligently validate logistical expenses.
